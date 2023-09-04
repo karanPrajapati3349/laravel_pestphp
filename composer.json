@@ -1,8 +1,8 @@
 {
-    "name": "laravel/contactform",
+    "name": "pestphp/contactform",
     "autoload": {
         "psr-4": {
-            "Laravel\\Contactform\\": "src/"
+            "Pestphp\\Contactform\\": "src/"
         }
     },
     "authors": [
